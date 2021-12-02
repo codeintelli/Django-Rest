@@ -31,7 +31,7 @@ pip install virtualenv
 ```sh
 python3 -m venv env_name
 ```
-- The clone this repo
+- Clone this repo
 
 - Install requirements 
 ```sh
