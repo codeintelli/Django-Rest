@@ -52,7 +52,7 @@ pip install virtualenv
 python3 -m venv env_name
 ```
 
-- The clone this repo
+- clone this repo
 
 - Install requirements
 
@@ -79,3 +79,9 @@ py manage.py runserver PORT_NO_IF_NEEDED
 ```sh
 python myapi.py
 ```
+
+
+## Also Check REST FULL API 
+
+- [Django Function Based API](https://github.com/CodeIntelli/DJANGO-RESTFULL-API_FBV) 
+- [Django Class Based API](https://github.com/CodeIntelli/DJANGO-RESTFULL-API_CBV)
