@@ -22,7 +22,7 @@ def get_data(id = None):
 def post_data():
     data = {
         'name':'bholenath',
-        'roll': 13121,
+        'roll': 122,
         'city': 'somnath'
     }
     json_data = json.dumps(data)
@@ -69,19 +69,19 @@ def delete_data():
     
 
 # ~ get data
-print('\n *********************before insert data********************* \n')
-get_data()
+# print('\n *********************before insert data********************* \n')
+# get_data()
 # ~ get specific data
 # get_data(1)
 # ~ insert data
-# print('\n')
-# post_data()
-# print('\n')
+print('\n')
+post_data()
+print('\n')
 # ~ update data
 # print('\n')
 # update_data()
 # print('\n')
 # ~ delete data 
-print('\n')
-delete_data()
-print('\n')
+# print('\n')
+# delete_data()
+# print('\n')
