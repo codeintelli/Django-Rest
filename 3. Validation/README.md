@@ -83,7 +83,7 @@ def validate(self, value)
 
     - Printing the repr() of a serializer instance will show you exactly what validation rules is applies. There's no extra hidden validation behaviour being called on the model instance. 
 
-    when you are using ModelSerializer all of this is handled automatically for you. If you want to drop down to using Serializer classes instead, then you need to define the validation rules explicitly.
+    - when you are using ModelSerializer all of this is handled automatically for you. If you want to drop down to using Serializer classes instead, then you need to define the validation rules explicitly.
 
 
 - Example
