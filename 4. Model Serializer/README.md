@@ -24,7 +24,6 @@
         exclude = ['roll']
 ```
 
-> Note: Where value is the field value that requires validations/
 
 ### Validation in ModelSerializer Class
 
