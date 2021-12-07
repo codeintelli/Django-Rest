@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "makemigrations",
+        "myapi",
+        "Runserver",
+        "unrendered",
+        "venv",
+        "virtualenv"
+    ],
+    "python.formatting.provider": "black"
+}
