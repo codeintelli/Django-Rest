@@ -243,3 +243,4 @@ python myapi.py
 
 - [Django Function Based API BASIC](https://github.com/CodeIntelli/DJANGO-RESTFULL-API_FBV)
 - [Django Class Based API BASIC](https://github.com/CodeIntelli/DJANGO-RESTFULL-API_CBV)
+- [Django Class Based API Using DRF](https://github.com/CodeIntelli/Django-Rest/tree/main/6.%20Class%20Based%20API%20View)
