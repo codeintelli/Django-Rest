@@ -89,11 +89,11 @@
 Response(data,status=None,template_name=None,header=None,content_type=None)
 ```
 
-    - data:- the unrendered, serialized data for the response.
-    - status:- a status code for the response. Default is 200.
-    - template_name:- a template name is use only in HTMLRenderer or some other custom template renderer is the accepted renderer for the response.
-    - headers:- a dictionary of HTTP headers to use in the response.
-    - content_type:- The content type of the response. Typically, this will be set automatically by the renderer as determined by content negotiation, but there may be some cases where you need to specify the content type explicitly.
+   - data:- the unrendered, serialized data for the response.
+   - status:- a status code for the response. Default is 200.
+   - template_name:- a template name is use only in HTMLRenderer or some other custom template renderer is the accepted renderer for the response.
+   - headers:- a dictionary of HTTP headers to use in the response.
+   - content_type:- The content type of the response. Typically, this will be set automatically by the renderer as determined by content negotiation, but there may be some cases where you need to specify the content type explicitly.
 
 ## STATUS CODE
 
