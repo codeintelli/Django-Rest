@@ -241,5 +241,5 @@ python myapi.py
 
 ## Also Check REST FULL API
 
-- [Django Function Based API](https://github.com/CodeIntelli/DJANGO-RESTFULL-API_FBV)
-- [Django Class Based API](https://github.com/CodeIntelli/DJANGO-RESTFULL-API_CBV)
+- [Django Function Based API BASIC](https://github.com/CodeIntelli/DJANGO-RESTFULL-API_FBV)
+- [Django Class Based API BASIC](https://github.com/CodeIntelli/DJANGO-RESTFULL-API_CBV)
