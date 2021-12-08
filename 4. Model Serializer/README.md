@@ -32,7 +32,6 @@
 - read only means they can't be updated once they have inserted in database
 
 - Example
-
 ```python
    from rest_framework import serializers
       class StudentSerializer(serializers.ModelSerializer):
