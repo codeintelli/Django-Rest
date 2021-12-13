@@ -50,8 +50,13 @@ py manage.py migrate
 ```sh
 py manage.py runserver PORT_NO_IF_NEEDED
 ```
-- For Checking Rest API Uncomment the Comment in myapi file
-```sh
-python myapi.py
-```
+
+## Also Check This 
+- [DJANGO ECOMMERCE](https://github.com/CodeIntelli/DJANGO-ECOM)
+- [DJANGO BLOG APP](https://github.com/CodeIntelli/django-blog)
+- [DJANGO TODO APP](https://github.com/CodeIntelli/django-todoapp)
+- [DJANGO IMAGE BAZZAR](https://github.com/CodeIntelli/django-image-bazzar)
+- [DJANGO SOCIAL LOGIN](https://github.com/CodeIntelli/social-login-django)
+- [SEND MAIL USING DJANGO](https://github.com/CodeIntelli/send_email_django)
+
 
