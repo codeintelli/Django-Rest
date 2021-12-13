@@ -22,7 +22,7 @@
   Json_data = {"name":"sonam","roll":’’101’’}
   parsedData = json.loads(json_data)
   print(parsedData)
-  {'name':'sonam','roll':'101'}
+  #{'name':'sonam','roll':'101'}
   ```
 
 # Serializers:-
