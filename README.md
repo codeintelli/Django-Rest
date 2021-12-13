@@ -1,7 +1,7 @@
 # Django REST Framework
 
 
-![](https://www.django-rest-framework.org/img/logo.png)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--MfVqWnwL--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/pgwkazyf2b5q8kqzxzda.jpg)
 
 Django REST framework is a powerful and flexible toolkit for building Web APIs.
 
