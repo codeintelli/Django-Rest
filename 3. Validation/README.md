@@ -150,8 +150,10 @@ py manage.py runserver PORT_NO_IF_NEEDED
 python myapi.py
 ```
 
+## Also Check REST FULL API
 
-## Also Check REST FULL API 
-
-- [Django Function Based API](https://github.com/CodeIntelli/DJANGO-RESTFULL-API_FBV) 
-- [Django Class Based API](https://github.com/CodeIntelli/DJANGO-RESTFULL-API_CBV)
+- [Django Function Based API Basic](https://github.com/CodeIntelli/DJANGO-RESTFULL-API_FBV)
+- [Django Class Based API Basic](https://github.com/CodeIntelli/DJANGO-RESTFULL-API_CBV)
+- [Django Function Based API Using DRF](https://github.com/CodeIntelli/Django-Rest/tree/main/5.%20Function%20Based%20API%20View)
+- [Django Class Based API Using DRF](https://github.com/CodeIntelli/Django-Rest/tree/main/6.%20Class%20Based%20API%20View)
+- [Django Generic API View](https://github.com/CodeIntelli/Django-Rest/tree/main/7.%20Generic%20%20API%20View)
