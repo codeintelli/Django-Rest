@@ -63,7 +63,7 @@
     serializer_class = StudentSerializer
   ```
 
-  ## UpdateAPIView
+  ## DistroyAPIView
 
   - It is used for delete-only endpoints for a single model instance. It provides a delete method handlers.
 
