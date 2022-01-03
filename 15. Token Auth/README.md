@@ -68,31 +68,6 @@ Syntax:-
  http[flags][METHOD]URL[ITEM[ITEM]]
 ```
 
-## How To Install
-
-> pip install httpie
-
-## Use httpie
-
-GET Request
-
-> http://localhost:8000/studentapi
-
-GET Request With Auth
-
-> http://127.0.0.1:8000/studentapi/'Authorization:Token9944b09199c62bcf9418ad846dd0ebbfc6ee4b'
-
-POST Request /Submitting Form
-
-> http://127.0.0.1:8000/studentapi/name="jay"roll"104"city="aaa"'Authorization:Token9944b09199c62bcf9418ad846dd0ebbfc6ee4b'
-
-PUT Request
-
-> http://127.0.0.1:8000/studentapi/4/name="jay"roll"104"city="aaa"'Authorization:Token9944b09199c62bcf9418ad846dd0ebbfc6ee4b'
-
-DELETE Request
-
-> http://127.0.0.1:8000/studentapi/4/'Authorization:Token9944b09199c62bcf9418ad846dd0ebbfc6ee4b'
 
 ## Setup
 
